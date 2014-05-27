@@ -1,0 +1,13 @@
+{
+    "name": "ivko/yii-hybridAuth",
+    "description": "Fork from http://www.yiiframework.com/extension/chybridauth/",
+    "authors": [
+        {
+            "name": "IvKo"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "hybridauth/hybridauth": "dev-master"
+    }
+}
